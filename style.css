@@ -70,8 +70,8 @@ img {
     animation-delay: 1s;
 }
 h2 {
-    font-family: "Twister", serif;
-    font-size: 70px;
+    font-family: "Vogue", serif;
+    font-size: 50px;
     color: #EEC129;
     text-align: center;
     margin-bottom: 2rem;
@@ -229,7 +229,7 @@ footer p {
 }
 
 @media screen And (max-width: 576px){
-    h2{font-size: 56px;}
+    h2{font-size: 36px;}
     h3 {font-size: 1rem};
     body {font-size: .8rem}
     #home img{
